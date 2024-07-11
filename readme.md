@@ -1,4 +1,4 @@
-# sharperr
+# sharper
 
 A new Flutter project.
 
