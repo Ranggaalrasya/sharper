@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'screens/register_screens.dart'; // Import the RegisterScreen
+import 'screens/RegisterScreens.dart'; // Import the RegisterScreen
 
 void main() {
   runApp(const MyApp());
